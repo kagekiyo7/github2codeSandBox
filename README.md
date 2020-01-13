@@ -1,5 +1,5 @@
 # github2codeSandBox
-This bookmarklet opens github to codeSandBox.
+This bookmarklet opens codeSandBox page from github page.
 
 ## Compressed code
 ```js
